@@ -1,0 +1,21 @@
+Employee Category,emp_designation,emp_dept,emp_sal,emp_ser_years,emp_ser_type,emp_phd_stat
+teaching,faculty,phy,43236.5,7.0,not,completed
+non-teaching,peon,chem,65535.0,5.0,not,nil
+teaching,faculty,math,52883.0,5.0,not,ongoing
+non-teaching,faculty,chem,91107.0,4.066666666666666,permanent,withdrawn
+non-teaching,peon,cs,68360.0,1.0,permanent,completed
+miscellaneous,sweeper,cs,56811.0,5.0,permanent,nil
+teaching,faculty,math,43236.5,9.0,not,completed
+miscellaneous,sweeper,cs,24340.0,3.0,permanent,withdrawn
+teaching,faculty,math,32257.0,4.066666666666666,not,completed
+teaching,peon,elec,21298.0,5.0,not,withdrawn
+teaching,peon,math,17372.0,4.066666666666666,not,ongoing
+miscellaneous,sweeper,elec,9420.0,1.0,permanent,completed
+non-teaching,faculty,chem,87991.0,2.0,not,completed
+miscellaneous,peon,chem,67079.0,4.0,permanent,nil
+miscellaneous,peon,cs,84860.0,2.0,permanent,ongoing
+teaching,peon,elec,12012.0,4.066666666666666,not,nil
+non-teaching,faculty,elec,14396.0,3.0,permanent,completed
+non-teaching,sweeper,elec,8918.0,2.0,not,nil
+non-teaching,faculty,elec,14359.0,4.066666666666666,not,ongoing
+non-teaching,sweeper,phy,49259.0,7.0,permanent,ongoing
